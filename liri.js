@@ -89,6 +89,7 @@ function movie(){
               url: movieUrl,
             })
             .then(function (response) {
+              console.log('---------------------')
               console.log('Movie Title: ' + response.data.Title)
               console.log('Year: ' + response.data.Year)
               console.log('ImdbRating: ' + response.data.imdbRating)
@@ -98,6 +99,7 @@ function movie(){
               console.log('Language: ' + response.data.Language)
               console.log('Plot: ' + response.data.Plot)
               console.log('Actors: ' + response.data.Actors)
+              console.log('---------------------')
             })
   }            
 }
