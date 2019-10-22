@@ -25,7 +25,8 @@ How users can get started with the project:
            [file called] [  command ] [   artist  ]
 
 Where users can get help with your project:
-    There is also a video in the video folder that will show how the app works
+    Link to a video to show how the app works [here](https://github.com/gej15/Liri/tree/master/video)
+
 
 Who maintains and contributes to the project:
     This project will be maintained by Grant Jackson, updates will be added in the future.
