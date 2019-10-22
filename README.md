@@ -25,7 +25,8 @@ How users can get started with the project:
            [file called] [  command ] [   artist  ]
 
 Where users can get help with your project:
-    This readme.md will be the beset place to look up infomation on the file.
+    There is also a video in the video folder that will show how the app works
 
 Who maintains and contributes to the project:
     This project will be maintained by Grant Jackson, updates will be added in the future.
+
