@@ -26,6 +26,10 @@ How users can get started with the project:
 
 Where users can get help with your project:
     Link to a video to show how the app works [here](https://github.com/gej15/Liri/tree/master/video)
+    ![pic](/videos/liri1.png)
+    ![pic](/videos/liri2.png)
+
+
 
 
 Who maintains and contributes to the project:
